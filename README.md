@@ -1,6 +1,6 @@
 # 🚀 EVE Marketer (En Desarrollo)
 
-![EVE Online Logo](https://web.ccpgamescdn.com/eveonline/assets/developers/eve-logo.png)
+![EVE Marketer Logo](eve.jpg)
 
 **Herramienta de análisis de mercado para EVE Online**  
 *"Calculando la rentabilidad entre precios de mercado y costes de fabricación"*
