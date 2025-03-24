@@ -1,0 +1,84 @@
+tier,name,type_id
+T4,Broadcast Node,2867
+T4,Integrity Response Drones,2868
+T4,Nano-Factory,2869
+T4,Organic Mortar Applicators,2870
+T4,Recursive Computing Module,2871
+T4,Self-Harmonizing Power Core,2872
+T4,Sterile Conduits,2875
+T4,Wetware Mainframe,2876
+T3,Bacteria,2393
+T3,Biotech Research Reports,2358
+T3,Camera Drones,2345
+T3,Condensates,2344
+T3,Cryoprotectant Solution,2367
+T3,Data Chips,17392
+T3,Gel-Matrix Biopaste,2348
+T3,Guidance Systems,9834
+T3,Hazmat Detection Systems,2366
+T3,Hermetic Membranes,2361
+T3,High-Tech Transmitters,17898
+T3,Industrial Explosives,2360
+T3,Neocoms,2354
+T3,Nuclear Reactors,2352
+T3,Planetary Vehicles,9846
+T3,Reactive Metals,2398
+T3,Robotics,9848
+T3,Smartfab Units,2351
+T3,Supercomputers,2349
+T3,Synthetic Synapses,2346
+T3,Transcranial Microcontrollers,12836
+T3,Ukomi Superconductors,17136
+T3,Vaccines,28974
+T3,Water,3645
+T2,Base Metals,2267
+T2,Biocells,2329
+T2,Construction Blocks,3828
+T2,Consumer Electronics,9836
+T2,Coolant,9832
+T2,Enriched Uranium,44
+T2,Fertilizer,3693
+T2,Genetically Enhanced Livestock,15317
+T2,Livestock,3725
+T2,Mechanical Parts,3689
+T2,Microfiber Shielding,2327
+T2,Miniature Electronics,9842
+T2,Nanites,2463
+T2,Oxides,2317
+T2,Polyaramids,2321
+T2,Polytextiles,3695
+T2,Rocket Fuel,9830
+T2,Silicate Glass,3697
+T2,Superconductors,9838
+T2,Supertensile Plastics,2312
+T2,Synthetic Oil,3691
+T2,Test Cultures,2319
+T2,Transmitter,9840
+T2,Viral Agent,3775
+T2,Water-Cooled CPU,2328
+T1,Biofuels,2396
+T1,Biomass,3779
+T1,Chiral Structures,2401
+T1,Electrolytes,2390
+T1,Industrial Fibers,2397
+T1,Oxidizing Compound,2392
+T1,Oxygen,3683
+T1,Plasmoids,2389
+T1,Precious Metals,2399
+T1,Proteins,2395
+T1,Silicon,9828
+T1,Toxic Metals,2400
+T0,Aqueous Liquids,2268
+T0,Autotrophs,2305
+T0,Carbon Compounds,2288
+T0,Complex Organisms,2287
+T0,Felsic Magma,2307
+T0,Heavy Metals,2272
+T0,Ionic Solutions,2309
+T0,Microorganisms,2073
+T0,Noble Gas,2310
+T0,Noble Metals,2270
+T0,Non-CS Crystals,2306
+T0,Planktic Colonies,2286
+T0,Reactive Gas,2311
+T0,Suspended Plasma,2308
