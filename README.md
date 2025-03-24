@@ -31,12 +31,7 @@ El archivo `tier_name_typeid.csv` se genera a partir del:
    2,Oxygen,2841
    ```
 
-2. **Ejecuta el analizador**:
-   ```bash
-   python eve_market_analyzer.py
-   ```
-
-3. **Obtén el reporte** (`tier_name_price_jita.csv`):
+2. **Obtén el reporte** (`tier_name_price_jita.csv`):
    ```
    tier, name, type_id, current_buy_price, avg_buy_price_1d, ...
    ```
